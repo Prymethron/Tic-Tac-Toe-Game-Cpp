@@ -8,5 +8,6 @@ By the way the AI is not a real AI it just randomly chooses where should it put 
 
 ![Screenshot_2](https://user-images.githubusercontent.com/73065112/119402261-613f4080-bce5-11eb-99e7-ef02786ce185.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/73065112/119402269-63090400-bce5-11eb-8b54-2a688735a85e.png)
+
 ![Screenshot_4](https://user-images.githubusercontent.com/73065112/119402273-63a19a80-bce5-11eb-8737-5081198454f3.png)
 
