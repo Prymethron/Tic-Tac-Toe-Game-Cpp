@@ -1,4 +1,4 @@
-# XOX-Game-Cpp
+# TicTacToe-Game-Cpp
 It's a XOX game against AI. There's no any setup so you can easily open source code and run it except if you want to activate sounds,
 you need to open it in visual studio project and delete // in line 227-252-281-347-353-390-396-426
 ![Screenshot_1](https://user-images.githubusercontent.com/73065112/119401390-1a048000-bce4-11eb-98ab-707675fa71d2.png)
